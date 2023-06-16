@@ -1,0 +1,7 @@
+{
+  "physics": {
+    "defaultMaterial": {
+      "restitution": 1
+    }
+  }
+}
